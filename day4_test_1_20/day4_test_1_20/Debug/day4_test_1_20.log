@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\2022\c\刷题\day4_test_1_20\day4_test_1_20\test.cpp(63,21): warning C4244: “=”: 从“long”转换到“char”，可能丢失数据
+E:\2022\c\刷题\day4_test_1_20\day4_test_1_20\test.cpp(67,16): warning C4244: “=”: 从“long”转换到“char”，可能丢失数据
+  day4_test_1_20.vcxproj -> E:\2022\c\刷题\day4_test_1_20\Debug\day4_test_1_20.exe
